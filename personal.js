@@ -2,6 +2,9 @@
 
 /* ----------------------- 
     GLOBALS 
+{
+sentence: " is not so secretly in love with Shreya Sudhakaran",
+}
 -------------------------*/
 var sections = [
                 {       sentence: " welcomes you to his newly modified website",
