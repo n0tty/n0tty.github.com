@@ -17,6 +17,8 @@ var sections = [
 		},
 		{	sentence: " plays guitar and drums during leisure time",
 		},
+		{	sentence: " is probably learning powershell",
+		},
 		{	sentence: " could be automating something right now",
 		},
 		{	sentence: " is all about learning, hacking and sharing cool stuff",
