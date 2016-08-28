@@ -15,6 +15,8 @@ Lokah Samastah Sukhino Bhavantu
 *Let all people/ worlds (Lokah) in the whole universe (samastah) live (bhavantu) peacefully and happily (sukhino) *
 Tanoy 'n0tty' Bose
 ~~~
+[***Recommendations***](/about/#recommendation)
+
 **P.S**: If you like the looks of this page, go ahead and thank [gjuniior](http://gjuniioor.github.io/). I have only modified what he made.
 
 ### $ cat ~/readme.md

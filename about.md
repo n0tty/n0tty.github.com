@@ -54,6 +54,19 @@ Other Interests - Guitar, Music.
 {:id="recommendation"}
 
 ~~~
-Error: None found.
-Drop me a few lines plj =D
+Last few days were nightmare, as in my career spanning 30 years in stock market, I was faced with a grim situation, wherein my computer faced a 
+massive virus attack called "Ransomware" which encrypted all my server data/files and left me immobilised. The hacker left note on my computer 
+with a demand for non-negotiable ransom in the form of Bit Coin for undoing it and with a strict deadline running in hours. We were on the verge 
+of acceding to his illegal ransom and preparing ourselves for compromised data, when incidentally I came across Mr. Tanoy Bose, working with E&Y, 
+who casually mentioned that he would look at the issue before committing solution. He ran few initial tests on my computer and after few hours he 
+concluded that the encrypted data can be decrypted, as the hacker has used codes which could be cracked with certain procedures. He ran several 
+processes on my computer and by midnight all affected files were decrypted completely.
+
+I strongly recommend Mr. Tanoy Bose, who is young aged 23, a definite computer whiz-kid and who has a very bright future in cyber security. 
+I wish him all the best for his career. His devotion for getting our cyber world free of virus is unparalleled and feel that he should be entrusted 
+with greater responsibility in his existing organisation.
+
+- Sunil Hurkat
+Managing Director,
+Omega Securities and Trading Co Pvt Ltd
 ~~~
