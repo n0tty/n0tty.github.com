@@ -5,7 +5,7 @@ permalink: /hacking/
 ---
 
 <ul class="posts">
-    {% for sanatana in site.categories.dharma %}
+    {% for sanatana in site.categories.hacking %}
         <li>
             <span class="post-date">{{ sanatana.date | date: "%b %d, %Y" }}</span>
             ::

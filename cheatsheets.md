@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: "Research"
-permalink: /research/
+permalink: /cheatsheets/
 ---
 
 <ul class="posts">
-    {% for sanatana in site.categories.research %}
+    {% for sanatana in site.categories.cheetsheets %}
         <li>
             <span class="post-date">{{ sanatana.date | date: "%b %d, %Y" }}</span>
             ::
