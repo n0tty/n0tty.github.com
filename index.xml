@@ -6,10 +6,6 @@
     <description>Recent content on Tanoy Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Tanoy Bose](https://twitter.com/TanoyBose)</copyright>
-    
-	<atom:link href="https://shellcoder.party/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 [Tanoy Bose](https://twitter.com/TanoyBose)</copyright><atom:link href="https://shellcoder.party/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
